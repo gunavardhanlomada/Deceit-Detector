@@ -14,10 +14,10 @@
 
 <ol>
   <li>Clone this repository:</li>
-  <pre><code>git clone https://github.com/yourusername/deceit-detector.git</code></pre>
+  <pre><code>git clone https://github.com/gunavardhanlomada/Deceit-Detector.git</code></pre>
 
   <li>Navigate to the project directory:</li>
-  <pre><code>cd deceit-detector</code></pre>
+  <pre><code>cd Deceit-Detector</code></pre>
 
   <li>Create a virtual environment (optional but recommended):</li>
   <pre><code>python -m venv venv
